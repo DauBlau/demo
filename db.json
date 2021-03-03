@@ -138,5 +138,8 @@
             "lang" : "ALL",
             "type" : "calculator"
         }
-    ]
+    ],
+    "profile": {
+    "name": "DauBlau"
+  }
 }
